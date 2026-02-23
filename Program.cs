@@ -6,3 +6,6 @@ Console.WriteLine("4. Visitante");
 Console.Write("Seleccione rol: ");
 
 int rol = int.Parse(Console.ReadLine());
+
+switch (rol)
+{
